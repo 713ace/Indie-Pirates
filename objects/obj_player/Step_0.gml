@@ -78,15 +78,15 @@ image_angle = global.pointdirection - 270  // Sets image to correrct movement di
 //Change Sprite
 if (global.varhealth >= 666)
 {
-	sprite_index = ship3
+	sprite_index = ship1
 }
 if ((333 <= global.varhealth) and (global.varhealth < 666))
 {
-	sprite_index = ship9
+	sprite_index = ship7
 }
 if (( 0 < global.varhealth) and (global.varhealth < 333))
 {
-	sprite_index = ship15	
+	sprite_index = ship13	
 }
 if (global.varhealth <= 0)
 {

@@ -14,7 +14,14 @@
         "722d63fa-6d04-4945-b2f0-ace80ba223d4",
         "a6339cbb-62ca-4f0f-8e03-04659ea6cef7",
         "c65f88ae-4c27-4084-a8dc-a25d9faa0476",
-        "3a8f5119-6494-4c49-9136-880a07f45464"
+        "3a8f5119-6494-4c49-9136-880a07f45464",
+        "a1bca6c2-7b43-4e14-a024-064587a8b429",
+        "4bf0e602-c555-4344-8660-8f400844ab6f",
+        "c5c155b4-c7a4-43a4-8c1c-01e67e833590",
+        "19b338db-a44c-444c-aa04-50d411f42cd3",
+        "f26689cf-a29e-4afa-823f-eb282d49c445",
+        "3b2a2f2f-bc7c-4a8b-bcde-7b0ecd4cb016",
+        "b29ad74d-a680-436c-abf4-c3e11bfcf617"
     ],
     "filterType": "GMSprite",
     "folderName": "Menu \/ Controls",

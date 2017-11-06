@@ -1,4 +1,32 @@
  ///Initalize Variables
+/*
+if global.whiteship = true
+{
+	global.varhealth = 1000;
+	maxspeed = 6;
+}
+if global.redship = true
+{
+	global.varhealth = 1000;
+	maxspeed = 6;
+}
+if global.blueship = true
+{
+	global.varhealth = 1000;
+	maxspeed = 6;
+}
+if global.greenship = true
+{
+	global.varhealth = 1000;
+	maxspeed = 6;
+}
+if global.yellowship = true
+{
+	global.varhealth = 1000;
+	maxspeed = 6;
+}
+*/
+global.varhealth = 1000;  //Delete once ship selection screen is done
 global.varscore = 0;
 speed = 0;
 global.varhealth = 1000;
