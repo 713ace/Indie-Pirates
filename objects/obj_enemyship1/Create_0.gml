@@ -1,0 +1,14 @@
+depth = -1001;
+varsaveangle = 0;
+pointdirectionenemy = 0;
+poointdirectionphysicsenemy = 0;
+angleturn = 0;
+scr_collision_init(1);
+bullet = 0;
+bullet2 = 0;
+randomtimer = 0;
+shiphealth = 180;
+lock = false;
+speed = 0;
+varspeed = 0;
+hitlock = true;
